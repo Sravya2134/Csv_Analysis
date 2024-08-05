@@ -1,5 +1,6 @@
 # Csv_Analysis
 This repository contains a Python-based tool for analyzing and visualizing datasets from CSV files. The application performs several key tasks:
+
 Data Loading: Reads datasets from CSV files.
 
 Statistical Analysis: Computes essential statistics (mean, median, mode, standard deviation) for numerical columns.
