@@ -11,5 +11,4 @@ Interactive Q&A: Allows users to ask questions about the dataset, with support f
 
 NOTE : Create new API key and store in the .env file 
        
-       
-       Run the app file 
+       Run the app file as python main.py
