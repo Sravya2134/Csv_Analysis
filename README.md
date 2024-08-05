@@ -10,3 +10,4 @@ Histogram Visualization: Automatically generates histograms for all numerical co
 Interactive Q&A: Allows users to ask questions about the dataset, with support for both local statistical calculations and advanced insights from OpenAI's language models.
 
 NOTE : Create new API key and store in the .env file 
+       Run the app file 
