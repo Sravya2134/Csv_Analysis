@@ -8,3 +8,5 @@ Statistical Analysis: Computes essential statistics (mean, median, mode, standar
 Histogram Visualization: Automatically generates histograms for all numerical columns.
 
 Interactive Q&A: Allows users to ask questions about the dataset, with support for both local statistical calculations and advanced insights from OpenAI's language models.
+
+NOTE : Create new API key and store in the .env file 
